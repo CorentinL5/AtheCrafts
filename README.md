@@ -1,11 +1,8 @@
 # AtheCrafts
-> Français
-Le code a été écrit et édité par Tarumo#2246 (Discord)
-Veuillez a ne pas reutiliser le code sans avoir demandé préalablement a l'éditeur
+Le premier site que j'ai fait de ma vie (12 juillet 2020).
 
-> English
-The code was written and edited by Tarumo # 2246 (Discord)
-Please do not reuse the code without first asking the publisher
-
-
-> Merci/thanks #Tarumo
+## Visiter les versions du site :
+[Premier site](SiteWeb1.1/)
+[Deuxième site](SiteWeb1.2/)
+[Troisième site](SiteWeb1.3/)
+[Quatrième site](SiteWeb1.4/)
